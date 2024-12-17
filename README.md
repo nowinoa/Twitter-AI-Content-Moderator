@@ -1,4 +1,4 @@
-# AI to detect hate in tweets
+# Twitter AI Content Moderation
 
 ## Description
 This project implements machine learning models to analyze tweets and classify them into three categories: "Hate Speech", "Offensive Speech", or "Accepted Speech". The dataset used is the "Hate Speech and Offensive Language" dataset from Kaggle. To analyse different features of the tweet, we utilized 3 different machine learning algorithms:
