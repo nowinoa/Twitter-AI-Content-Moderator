@@ -1,4 +1,4 @@
-# Twitter AI Content Moderation
+# AI to detect hate in tweets
 
 ## Description
 This project implements machine learning models to analyze tweets and classify them into three categories: "Hate Speech", "Offensive Speech", or "Accepted Speech". The dataset used is the "Hate Speech and Offensive Language" dataset from Kaggle. To analyse different features of the tweet, we utilized 3 different machine learning algorithms:
@@ -38,6 +38,7 @@ To use this code you need to use a python version 3.9-3.12. After downloading th
 - keras
 - googleapiclient
 
+Additionally, you will need a Perspective API key, which you can obtain from [Perspective API](https://www.perspectiveapi.com/). Once you have the key, open the file perspectiveAPI_model.py and paste it into the variable API_KEY
 
 ## Usage
 
