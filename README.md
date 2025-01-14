@@ -60,7 +60,7 @@ This code is based on source code from <a href="https://github.com/benkimmn/cont
 Created by <a href="https://github.com/nowinoa">Ainhoa Prada</a>.
         
 ## Questions
-For any questions or issues feel free to contact me at: ap2170u@gre.ac.uk
+For any questions or issues feel free to contact me at: apt.code14@gmail.com
 
 To explore more about my projects visit my profile:
 
